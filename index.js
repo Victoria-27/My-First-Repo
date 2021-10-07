@@ -1,0 +1,1 @@
+let sumEl = document.getElementById("sum-el")
